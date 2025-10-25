@@ -1,4 +1,5 @@
 # Virtual environments
+pyspark_env/
 pyspark-env/
 venv/
 env/
